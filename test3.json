@@ -1,5 +1,9 @@
 {
-  "colors":["orange","green","blue"],
+  "colors": [
+    "orange",
+    "green",
+    "blue"
+  ],
   "labels": [
     "test4",
     "test2",
@@ -19,7 +23,8 @@
         18,
         15
       ]
-    },{
+    },
+    {
       "date": "2018-01-02T00:00:00.000Z",
       "installations": [
         15,

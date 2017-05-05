@@ -1,0 +1,3 @@
+{
+  timestamp: (function(){console.log("test");})()
+}
